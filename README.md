@@ -7,3 +7,7 @@ https://github.com/hbzkey/117_documents/blob/master/%E6%96%87%E6%A1%A3/117_%E5%8
 
 总结文档
 https://github.com/hbzkey/117_documents/blob/master/%E6%96%87%E6%A1%A3/117_%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%8F%91%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A.docx
+
+编辑页
+https://github.com/hbzkey/117_web/blob/master/vue/src/components/bianjiye.vue
+
