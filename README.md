@@ -11,3 +11,5 @@ https://github.com/hbzkey/117_documents/blob/master/%E6%96%87%E6%A1%A3/117_%E9%A
 编辑页
 https://github.com/hbzkey/117_web/blob/master/vue/src/components/bianjiye.vue
 
+列表页
+https://github.com/hbzkey/117_web/blob/master/vue/src/components/liebiaoye.vue
